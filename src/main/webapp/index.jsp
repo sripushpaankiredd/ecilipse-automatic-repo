@@ -1,12 +1,8 @@
 <html>
 <body>
-<head>
-<title>
-Registration Page
-</title>
-</head>
+
 <body>
-<form action="Login" method="post">
+<form>
 <center>
 <table>
 <tr>
@@ -92,4 +88,3 @@ value="+91" size='2'/>
 </form>
 </body>
 </html>
-
